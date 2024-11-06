@@ -12,7 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/phi-dinh-tpv-clv/connect-db.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "author": "Anonymous Author",
-  "license": "ISC"
+  "license": "MIT"
 }
