@@ -1,5 +1,5 @@
 {
-  "name": "@phidv/connect-db",
+  "name": "connect-db-log",
   "version": "1.0.0",
   "description": "a demo package for malicious package",
   "main": "index.js",
@@ -15,6 +15,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "private": false,
   "keywords": [],
   "author": "Anonymous Author",
   "license": "MIT"
